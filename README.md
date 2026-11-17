@@ -1,2 +1,2 @@
 # blog-frontend
-Frotnend to repo: blog-backend
+Frontend to repo: blog-backend
